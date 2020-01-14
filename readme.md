@@ -1,6 +1,6 @@
 # Dependency Parser
 
-This is a self-implemented dependency parser for 19Fall CSCI-662 @ USC
+This is a self-implemented dependency parser for 19Fall CSCI-662 @ USC  
 In consideration of academic integrity, please don't use this code for homework (if any)
 
 ## Data preparation:
